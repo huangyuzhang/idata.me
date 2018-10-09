@@ -25,7 +25,7 @@
 2. enable to provide facilities during the festival (The local area does not have permanent facilities to cope with such a large number of people, so temporary and portable facilities are provided. eg: food & water, shops, toilets, accommodation)
 3. (a big rural farmland that) enable a bigger capacity of attendees (distinctive)
 4. to provide various kinds of music types to fulfill difference people's needs (distinctive)
-5. to make it accessible for large volume of people (distinctive)
+5. to make it accessible for large volume of people, even online streaming, social media... (distinctive)
 6. easy to plan and to scale up (the festival also provide benefit to the community in different aspects) <red> ? </red>
 
 [link1](https://geographycasestudysite.wordpress.com/case-study-glastonbury-festival/)
