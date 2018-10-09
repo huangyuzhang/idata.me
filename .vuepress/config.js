@@ -1,7 +1,7 @@
 // basic config
 module.exports = {
-  title: "Yuzhang's Notes",
-  description: "Yuzhang Huang's personal online notebook",
+  title: "iData.me",
+  description: "For those who wants to be a data scientist.",
   markdown: {
     lineNumbers: true, // 代码块显示行标
     displayAllHeaders: true // 默认值：false
@@ -21,7 +21,18 @@ module.exports = {
     /* navigation start */
     nav: [
       { text: "Home", link: "/" },
-      { text: "BA", link: "/ba/" },
+      {
+        text: "Business Analytics",
+        items: [
+          { text: "Data Analytics", link: "/ba/data-analytics/" },
+          { text: "Strategic Analysis", link: "/ba/strategic-analysis/" },
+          {
+            text: "Programming for B.A.",
+            link: "/ba/programming-for-business-analytics/"
+          },
+          { text: "Masterclass in B.A.", link: "/ba/masterclass/" }
+        ]
+      },
       {
         text: "Programming",
         items: [
@@ -40,15 +51,15 @@ module.exports = {
               { text: "Other Notes", link: "/other/" },
               { text: "About me", link: "/about/" }
             ]
-          },
-          {
-            text: "External",
-            items: [
-              { text: "热带鱼", link: "https://www.51redaiyu.com" },
-              { text: "爱鱼客", link: "http://www.iyu.co" },
-              { text: "My Git", link: "http://git.iyu.co" }
-            ]
           }
+          // {
+          //   text: "External",
+          //   items: [
+          //     { text: "热带鱼", link: "https://www.51redaiyu.com" },
+          //     { text: "爱鱼客", link: "http://www.iyu.co" },
+          //     { text: "My Git", link: "http://git.iyu.co" }
+          //   ]
+          // }
         ]
       }
     ],
@@ -56,6 +67,7 @@ module.exports = {
 
     /* sidebar start*/
     sidebar: {
+      "/guide/": sidebarGuide("Guide"),
       "/ba/data-analytics/": sidebarDA("Data Analytics"),
       "/ba/strategic-analysis/": sidebarSA("Strategic Analysis"),
       "/ba/programming-for-business-analytics/": sidebarPBA(
@@ -209,6 +221,22 @@ function sidebarSQL(title) {
       collapsable: false,
       children: ["table-transformation/", "table-transformation/subqueries"]
     }
+  ];
+}
+
+// sidebar for guide
+function sidebarGuide(title) {
+  return [
+    {
+      title: "Guide",
+      collapsable: false,
+      children: [""]
+    }
+    // {
+    //   title: "Couse Pages",
+    //   collapsable: false,
+    //   children: [""]
+    // }
   ];
 }
 
