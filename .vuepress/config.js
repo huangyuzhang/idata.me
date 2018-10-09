@@ -49,7 +49,7 @@ module.exports = {
             text: "",
             items: [
               { text: "Other Notes", link: "/other/" },
-              { text: "About me", link: "/about/" }
+              { text: "About", link: "/about/" }
             ]
           }
           // {
@@ -232,11 +232,6 @@ function sidebarGuide(title) {
       collapsable: false,
       children: [""]
     }
-    // {
-    //   title: "Couse Pages",
-    //   collapsable: false,
-    //   children: [""]
-    // }
   ];
 }
 
