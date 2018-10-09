@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "webpack-serve": "^2.0.2"
+  }
+}
