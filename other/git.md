@@ -155,6 +155,19 @@ git push myweb master # push 到远程 git 服务器
 $ cd /home/myweb.com # 进入网页服务器项目页面
 $ git pull myweb master # 从远程 git 服务器 pull 项目文件
 ```
+### 创建SSH KEY实现免密登录
+1. 查看是否存在ssh key，如果有会列出key的列表
+```bash
+$ ls -al ~/.ssh
+# Lists the files in your .ssh directory, if they exist
+```
+2. 没有，继续创建，下一步
+```bash
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+# Creates a new ssh key, using the provided email as a label
+Generating public/private rsa key pair.
+```
+3. 一直回车即可
 
 ## 常见问题
 
