@@ -113,9 +113,14 @@ Date: 2018.10.04
 
 ## seminar 2: dyson case supermarket and store sector classification
 
+### Dyson's Distinctive Capabilities
+- Innovation and design
+- Leadership and culture
+
 What are the Dyson's distinctive competencies? capabilities
 - innovation capabilities
 - R&D
 - organizational culture
 - product development capabilities
 - user experience
+

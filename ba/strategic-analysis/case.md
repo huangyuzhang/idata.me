@@ -4,6 +4,8 @@
 
 1. What are the key drivers of change in the UK major events industry and what do you expect their impact to be over the next five years?
 
+PESTEL Analysis
+
 2. Like many areas of entertainment, music festivals can appear an attractive prospect to those with a passion for that specific entertainment form. How would you define this sector and its attractiveness?
 
 3. In the context of the experience economy, which **resources** and **capabilities** would you diagnose as important for **major events** such as the Glastonbury festival?
@@ -18,6 +20,8 @@
 4. the wide range of artists, genres and peripheral activities (service portfolio)
 5. the size of the festival and its distribution channel
 6. support from local community <red> ? </red>
+
+7. loyalty <red>?</red>
 
 ### Capabilities (what we are able to do)
 
@@ -40,4 +44,4 @@ benchmarking: to diagnose capabilities
 
 - #### VRIO Framework
 
-1. How can big data and data analytics reshape the major events industry over the next five years?
+4. How can big data and data analytics reshape the major events industry over the next five years?

@@ -95,6 +95,11 @@ Comparison operators used with the `WHERE` clause are:
   There are also some special operators that we will learn more about in the upcoming exercises.
   :::
 
+```SQL
+SELECT * FROM
+WHERE conditions IN ('valuea','valueb','valuec');
+```
+
 ## LIKE I: `_`
 
 `LIKE` can be a useful operator when you want to compare similar values.
@@ -275,7 +280,7 @@ ORDER BY name;
 
 :::tip
 
-- `ORDER` BY is a clause that indicates you want to sort the result set by a particular column.
+- `ORDER BY` is a clause that indicates you want to sort the result set by a particular column.
 - `name` is the specified column.
   :::
 
