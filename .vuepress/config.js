@@ -6,6 +6,14 @@ module.exports = {
     lineNumbers: true, // 代码块显示行标
     displayAllHeaders: true // 默认值：false
   },
+  head: [
+    [
+      "script",
+      {
+        src: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js"
+      }
+    ]
+  ],
   themeConfig: {
     // navbar: false,
     lastUpdated: "Last Updated", // string | boolean

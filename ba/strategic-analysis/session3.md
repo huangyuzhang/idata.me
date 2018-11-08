@@ -1,6 +1,7 @@
 ---
 sidebarDepth: 3
 ---
+
 # Session 3: Resources and capabilities
 
 ## The resources-based view (ppt.6)
@@ -46,12 +47,12 @@ In other words, the **very unique thing** about your organisation!
 
 The four key criteria by which capabilities can be assessed in terms of providing a basis for achieving **sustainable** competitive advantage.
 
-| | VRIO Framework|
-|:--:|:--|
-|**V**|**Value:** Do resources and capabilities exist that are valued by customers and enable the organization to respond to environmental opportunities or threats?|
-|**R**|**Rarity:** Do resources and capabilities exist that no (or few) competitors possess?|
-|**I**|**Inimitability:** Are resources and capabilities difficult and costly for competitors to obtain and imitate?|
-|**O**|**Organisational support:** Is the organisation appropriately organised to exploit the resources and capabilities?|
+|       | VRIO Framework                                                                                                                                                |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **V** | **Value:** Do resources and capabilities exist that are valued by customers and enable the organization to respond to environmental opportunities or threats? |
+| **R** | **Rarity:** Do resources and capabilities exist that no (or few) competitors possess?                                                                         |
+| **I** | **Inimitability:** Are resources and capabilities difficult and costly for competitors to obtain and imitate?                                                 |
+| **O** | **Organisational support:** Is the organisation appropriately organised to exploit the resources and capabilities?                                            |
 
 table in ppt.19
 
@@ -66,33 +67,29 @@ table in ppt.19
 # Diagnosing and develiping capabilities
 
 ## Redundant capabilities
-Capabilities, however effective in the past, can become less relevant as industries evolve and 
+
+Capabilities, however effective in the past, can become less relevant as industries evolve and
 
 e.g. legacy IT, outdated equipment, less functional facilities, human resource management issues
 
 ## Operational or ordinary capabilities (ppt.24)
+
 (internal strategy)
 
-## Dynamic capabilities
+## Dynamic capabilities (ppt.25~27)
+
+## Developing capabilities internally or externally (ppt.28)
 
 ## Diagnosing capabilities: benchmarking (ppt.29)
 
 Benchmarking is a means of understanding how an organisation compares with others – typically competitors (music festival)
 
+# Seminar 2
 
-
-
-
-
-
-
-
-
-
-# Seminar 2 
 Date: 2018.10.04
 
-## Supermarket 
+## Supermarket
+
 - phyisical location / online (eg. OCADO)
 - price / quality
   - cost leaders(bottom left): ASDA, Lidl
@@ -106,21 +103,24 @@ Date: 2018.10.04
   - local / ethical / co-op
 
 ## Market segmentation for supermarkets
+
 - Family size
 - size of purchase (bulk buy)
-
-
 
 ## seminar 2: dyson case supermarket and store sector classification
 
 ### Dyson's Distinctive Capabilities
+
 - Innovation and design
 - Leadership and culture
+- Product and patterns
+
+VRIO
 
 What are the Dyson's distinctive competencies? capabilities
+
 - innovation capabilities
 - R&D
 - organizational culture
 - product development capabilities
 - user experience
-
