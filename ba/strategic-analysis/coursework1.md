@@ -4,33 +4,29 @@ sidebar: false
 
 # Strategic Analysis Coursework 1
 
-音乐节在过去的几十年中发展迅速，以 Glastonbury 音乐节为代表的主流音乐节成为了音乐产业的支柱。这篇报告通过 VRIO 模型分析了 Glastonbury 音乐节的资源与能力，阐明了 Glastonbury 的成功源自于这几种资源：————，————，————。并阐述大数据及数据分析将重塑音乐产业的可能性。
+The festival and event industry has grown rapidly over the past few decades. Glastonbury festival has become the backbone of the industry. Resource analysis provides a better understanding of what kind of strategic resources does Glastonbury has and how they can deliver the best services and form its competitive advantages within the industry under an evolving and uncertain environment. This report analyses the resources and capabilities of the Glastonbury festival using the VRIO framework and illustrates the most important resources for the Glastonbury festival are its brand image and its history; its comprehensive content and unique festival culture; its efficiency in human resources and operations. The report also illustrates the possibilities and ways in which big data and data analytics may reshape the major event industry in the near future.
 
 ## Q3: Important Resources & Capabilities
 
 ### History and Brand Name
 
-As one of the oldest music festivals in the world, Glastonbury has established an extremely strong brand identity amongst music festival goers around the world. It is considered as its core competency.
+As one of the oldest music festivals in the world, Glastonbury has established an extremely strong brand identity amongst music festival goers around the world. With more than 40 years' developing and evolving, it has become the largest greenfield festival in the world which attracts more than 200,000 people each year. The Glastonbury Festival is accompanied by the growth of many hippies. Those who participate in Glastonbury with their family and friends year after year have a <red>strong sense of belonging to Glastonbury</red>. It also puts a strong emphasis on its work to support charitable causes. It contributes over £2 million to three major charity causes: Oxfam, Greenpeace and WaterAid, along with a list of other beneficiaries both in local and international in 2015 (Glastonbury Festival, 2016).
 
-It is also well-known that part of the profit is given to charities which further adds to its brand and reputation. Many artists have a desire to play at the festival purely based on the brand name and the number of attendees. Therefore, we can say that the brand name is Valuable to Glastonbury. In addition to being Rare, it’s very difficult and takes time for others to Imitate and obviously, it is exploited by Glastonbury pretty well.
+### Social media engagement
 
-`in the context of the experience economy and social media.`
+Nowadays social media plays a significant part in consumers' decision-making processes. Consumers can easily have information about the festival with bare cost. Festival organizers have the option to proactively engage with attendees and potential ones. The stories, pictures, videos of the Glastonbury posted on social media can even reach those who do not participate in the festival physically. According to Hudson, Roth, Madden & Hudson (2015), social media have a significant impact on emotions and attachments to festival brands, and those social media-based relationships led to postitive word of mouth recommendations. <red>Figure 1</red> shows the five UK festivals with the most Twitter followers in 2015, Glastonbury almost have double the number of the second place. As for now, Glastonbury has 692 thousands followers on Twitter, still leading the list, but it only has 6 thousands of Tweets and 500 Likes. For the Reading & Leeds Festival, it now has 419 thousands of followers with 22.2 thousands Tweets and 18.9 thousands of Likes. Given the fact that all these five Twitter accounts were created in 2009, Glastonbury festival has used the social media to reinforce its brand name to a certain extent, but not the best among all festivals. When applying the VRIO framework, the social media is Glastonbury festival's competitive parity. Thus it is a good way for other festivals to take advantage of social media to catch up with Glastonbury in terms of brand build.
 
-Nowadays social media plays a significant part in consumers' decision-making. The communication between consumers and organizers is mutual: consumers can easily have information about the festival with bare cost. For the festival organizers have the option to engage with attendees and potential attendees proactively.
+### Comprehensive Service Portfolio and unique festival culture
 
-That raises a question about transparency. It is essential for festival organizers to properly handle negative comments from attendees and iterate the services quickly.
+The characteristics of the festival determine that the subjective experience of the participants becomes important. Gelder & Robinson (2009) concluded that participation depends on multiple motivations, they suggest that it is risky for festival organizers to solely rely on the content of the event. It is equally important to create a fun atmosphere that offers plenty of networking opportunities and offers a variety of activities. Glastonbury has learned this during its developement. In addition to different genres of music, Glastonbury also began to focus on other performing activities like comedy, theatre, skateboarding and even children’s entertainments. It is consider as Glastonbury’s comprehensive service portfolio, which made Glastonbury a well-covered festival in terms of the content, to fulfil different attendee’s needs. Glastonburyfestival's comprehensive service portfolio and unique festival culture are quite clearly baluable capabilities. When comapre with other festivals，most people go specifically for a band, but Glastonbury does not announce a specific agenda at the time of ticket sales, which made the people purchase the ticket purely based on the five-day festival time they will have. In additon, other festivals usually cannot provide a free atmosphore that allows people to explore anywhere around the vast site at any time of day or night. People are free to move around the vast venues to explore unexpected programs at Glastonbury festival. It is a quite rare and special experience for Glastonbury festival's attendees. Because of capacity of the attendees, Glastonbury have the ability to provide the wide coverage of the entertainments. It is an monopoly in terms of the vast activities and the experience, it also become part of Glastonbury's culture. Thus it is nearly impossible for other events to imitate Glastonbury's culture. In the near to distance future, it will still be one of Glastonbury's most important sustained competitive advantages.
 
-Glastonbury 利用 social media 来养粉丝，效果非常好（twitter 粉丝数量），这 reinforces 它的 brand 和 reputation。
+### Efficiency in human resources and operations
 
-$$x = y$$
-
-For events, people would spend certain time on social media
-
-### Comprehensive Service Portfolio
-
-音乐节的特性决定了参与者的主观体验变得重要，Gelder & Robinson (2009) concluded 指出参与者与会与否取决于多种动机，因此如果音乐节仅仅依赖于节目本身是有风险的。同样重要的是营造一种有趣的节日氛围，提供充足的社交机会，并提供多种多样的以及非音乐的体验。 Glastonbury 很好的在其发展过程中了解到了这一点，In addition to different genres of music, Glastonbury also began to focus on other performing activities like comedy, poetry and even children’s entertainments. It is consider this as Glastonbury’s Comprehensive Service Portfolio, which made Glastonbury a well-covered festival in terms of the content, to fulfil different attendee’s needs. This is quite clearly a Valuable capability. When **we** look at Rarity, there are a few other festivals such as Latitude which offers a diverse range of content such as arts, theatre, comedy and literature, however, its capacity is much lower compare to Glastonbury. Therefore, **we** still consider Glastonbury’s service portfolio a Rarity, but it is Imitable to a certain extent, as shown by other festivals are increasing their service portfolio throughout the years.
+The number of Glastonbury's full-time employees is relatively small, but a large number of temporary staffs are required during the festival in different aspects. Thus Glastonbury starts recruiting temporary staffs after New Year, around half year prior the festival date. Charities like Oxfam organised volunteers for Glastonbury, in return they receive a donation every year. Another reason that makes Glastonbury special is the Eavis family. Their more than 40 years' experience and enthusiasm have made the festival remains fresh and artistically relevant.`this can be imporved by big data and data analytics` Other operational supplies are also essential to ensure temporary facilities such as <red>food & water, securities, toilets and accomodations, electricity and even Internet access</red> are provided during the festival. For example, in order to provide greater 4G network coverage and afford etimated 40 terabytes of data traffic, Glastonbury has partnered with EE who has installed a permanent network mast on the Glastonbury site and phone charging sites (EE LIMITED, 2017). Glastonbury is able to successfully host such a huge music festival, relying on the experience that it has accumulated over the past few decades and the partnership it has built with various service providers. In addition to being valuable and rare, it requires others to spend significant aount fo time to accumulate. The number of participants from Glastonbury growing each year proves that Glastonbury has makes good use of this.
 
 ## Q4: Big Data & Data Analytics reshape the industry
+
+对整个 major events 产业的影响，
 
 根据 Gelder，虽然 sample size 相对较小，但是他们的研究表明与家人和朋友进行社交是人们参加音乐节的主要因素。
 
@@ -40,9 +36,25 @@ For events, people would spend certain time on social media
 
 如之前提到的，利用社交媒体，活动组织者可以从参与者中获得更加具有价值及时效性的反馈，节日将可以以此分析受众的兴趣变化并预测来年的趋势，以便让组织者能够更早地进行第二年的活动准备。这能够为节日取得更久的准备时间，从而减少支出。比如：。。。
 
+考虑到如今移动设备普及率已经非常高，因此为了实现这一目的，Glastonbury 主要可以通过两种方式来获得数据。
+
+从 2017 年开始，Glastonbury 开始与一家来自诺丁汉的独立票务平台 See Tickets 合作将其购票系统搬到线上，但是由于 Glastonbury 太过于火爆，超过 135000 的门票在一个小时内就出售完毕，更是有很多人表示购票系统 crush 根本无法购买门票。
+
+第一种是与第三方音乐 app 进行合作，这样的好处是如果参与者通过音乐 app 购买或绑定他们音乐会门票，那么他们的日常收听音乐的历史记录可以被获取，从而帮助 Glastonbury 分析参与者的音乐喜好并对未来做出预测，缺点是 Glastonbury 不一定能够获取到足够的用户数据，并且作为 Glastonbury 的 distributor，音乐 app 可能要获取一定的 commission。
+
+第二种是开发自己的 app，用以购票、获取用户反馈，这样的特点是 app 更加能够满足 Glastonbury 的需求，但是缺点则是它们无法通过现有的收听历史记录获得用户已有的收听习惯。
+
+另外大数据和数据分析还可以帮助 marketing 和 advertising
+
 ## References (Harvard style)
 
-- Gelder, G. & Robinson, P., 2009. A Critical Comparative Study of Visitor Motivations for Attending Music Festivals: A Case Study of Glastonbury and V Festival. _Event Management_, 13(3), pp. 181-196.
+- EE LIMITED 2017, _EE Predicts Glastonbury Festival will be the Most Shared Live Event of 2017_.\<https://newsroom.ee.co.uk/ee-predicts-glastonbury-festival-will-be-the-most-shared-live-event-of-2017/>
+
+- Gelder, G. & Robinson, P. 2009, A Critical Comparative Study of Visitor Motivations for Attending Music Festivals: A Case Study of Glastonbury and V Festival. _Event Management_, 13(3), pp. 181-196.
+
+- Glastonbury Festival 2016, _Glastonbury Festival Gave Over £2 Million to Good Causes in 2015_.\<https://www.glastonburyfestivals.co.uk/glastonbury-gave-over-2-million-to-good-causes-in-2015/>
+
+- Hudson, S., Roth, M., Madden, T., Hudson, R. 2015, The effects of social media on emotions, brand relationship quality, and word of mouth: An empirical study of music festival attendees. _Tourism Management_, 47, 68-76
 
 :::tip (Gelder & Robinson, 2009)
 
@@ -69,4 +81,5 @@ For events, people would spend certain time on social media
 - The use of social media of attendees with music festivals was examined.
 - Results show social media usage has a significant influence on festival engagement.
 - Social media-based relationships also lead to positive word of mouth recommendations.
-  :::
+
+:::
