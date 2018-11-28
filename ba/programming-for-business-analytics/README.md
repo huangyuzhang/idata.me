@@ -26,3 +26,9 @@ More advanced programming may be taught including: the Excel object model, Activ
   - Useful Excel shortcut keys - saves time when building / editing a model
 - [MTH785P Spreadsheet Template File](https://qmplus.qmul.ac.uk/mod/resource/view.php?id=699904)
   - This will be the template from which we will build our models in this course.
+
+## Coursework 3
+
+Undeclared variables will lose you marks in your final coursework – you have been warned.
+
+do not declare Variants

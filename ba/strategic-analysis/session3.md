@@ -78,7 +78,7 @@ e.g. legacy IT, outdated equipment, less functional facilities, human resource m
 
 ## Dynamic capabilities (ppt.25~27)
 
-## Developing capabilities internally or externally (ppt.28)
+## Developing capabilities internally or externally (ppt.28 )
 
 ## Diagnosing capabilities: benchmarking (ppt.29)
 
